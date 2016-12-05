@@ -1,4 +1,2 @@
-# meteor_todo_app
+# Meteor todo-list app
 First project in Meteor.js
-
-Tadas was here :D
